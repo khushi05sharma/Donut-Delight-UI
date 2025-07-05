@@ -9,7 +9,6 @@ A sweet and stylish product card design created in **Figma**, showcasing a playf
 - 🍓 **Vibrant color palette** with playful pinks and creamy neutrals
 - 🎨 **Modern UI layout** with clean structure and call-to-action buttons
 - 💬 Friendly, user-focused design with a whimsical touch
-- 📱 Concept ready for **desktop and mobile adaptation**
 - 🧁 Designed to capture attention & drive engagement
 
 ---
